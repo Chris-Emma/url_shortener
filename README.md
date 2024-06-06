@@ -1,2 +1,2 @@
 # url_shortener
-url shortener web app using bitly api
+url shortener landing page
